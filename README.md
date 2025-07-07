@@ -38,7 +38,7 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 - Front-End Leadership
 - Accessibility AA support
 - RTL support
-- Performance improvement
+- Performance improvement: (video player, tracking, files loading management)
 - Build revamp FE architecture
 - Rebuild Webpack configuration
 - Increase the Node.js version from v12.
