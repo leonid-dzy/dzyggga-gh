@@ -39,6 +39,7 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 - Accessibility AA support
 - RTL support
 - Performance improvement
+- Build revamp FE architecture
 - Rebuild Webpack configuration
 - Increase the Node.js version from v12.
 - Refactoring checkout
