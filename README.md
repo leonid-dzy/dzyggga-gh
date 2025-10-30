@@ -4,8 +4,8 @@
 
 ## Contacts 📞 📧 🗨️
 
-- **Phone:** +38 (066) 27 - 70 - 006
-- **Email:** [dzyggga@gmail.com](mailto:dzyggga@gmail.com)
+- **Phone:** +38 (077) 27 - 70 - 006
+- **Email:** [leonid@scootify.eco](mailto:leonid@scootify.eco)
 - [LinkedIn](https://www.linkedin.com/in/dzyggga/)
 
 ## **About me** 🚀
