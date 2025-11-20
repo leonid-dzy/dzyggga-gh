@@ -2,11 +2,9 @@
 
 **Front-End Architect | Principal Engineer | SFCC & Modern Stack Specialist**
 
-📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 [leonid@scootify.eco](mailto:leonid@scootify.eco)
-
-🇺🇸 **English:** Intermediate (B1/B2) | 🇺🇦 **Ukrainian:** Native | 🚫 **Russian:** Do not speak
-
-🔗 [LinkedIn](https://www.linkedin.com/in/dzyggga/) | 🔗 [GitHub](https://github.com/leonid-dzy)
+- 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 [leonid@scootify.eco](mailto:leonid@scootify.eco)
+- 🇺🇸 **English:** Intermediate (B1/B2) | 🇺🇦 **Ukrainian:** Native | 🚫 **Russian:** Do not speak
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dzyggga/) | 🔗 [GitHub](https://github.com/leonid-dzy)
 
 ---
 
@@ -15,9 +13,9 @@
 **Hands-on Front-End Architect** delivering high-performance solutions **since 2012**. I specialize in bridging legacy enterprise systems (SFCC) with modern reactive architectures (Next.js, React, Serverless).
 
 * **Active Principal Engineer:** I actively write, review, and optimize code, handling the most complex technical challenges personally rather than just managing.
-* **Foundational Quality (Shift-Left):** I architect systems with **RTL (Right-to-Left), Accessibility (WCAG AA), Semantic SEO, and Performance** as core constraints from the very first line of code—never as an afterthought.
+* **Security-First Mindset:** I design architectures with inherent protection against web vulnerabilities (XSS, CSRF, Data Leaks) and secure API communication flows.
+* **User-Centric Engineering:** I treat **Performance, Accessibility (AA), and Semantic SEO** as non-negotiable architectural constraints that define the User Experience, not as afterthoughts.
 * **Innovation Leader:** Currently building AI-first serverless platforms while simultaneously modernizing global luxury retail architectures.
-* **Security & UX Focused:** Deep understanding of web security vectors and User Experience patterns, ensuring solutions are safe, frictionless, and scalable.
 
 ---
 
@@ -66,7 +64,7 @@
 
 * **Platform Migration:** Leading the strategic migration from Shopify to a custom **AI-first, Serverless** solution powered by **Next.js**.
 * **Full-Stack Implementation:** Building a scalable architecture that leverages Edge computing for speed and AI agents for customer interaction.
-* **Security:** Designed security protocols from the ground up, focusing on secure API communication and friction-less user experience.
+* **Zero-Trust Security:** Designed security protocols from the ground up, focusing on secure, stateless API communication and data integrity.
 
 ### **4. R&D and Framework Evolution (Dzyggga / Stryzhavka Online)**
 *Role: Creator & Full-Stack Developer*
@@ -79,10 +77,10 @@
 ## **Technical Arsenal**
 
 * **Core & Architecture:** JavaScript (ESNext), TypeScript, Light DOM Hydration, Microservices, Event-Driven Architecture, Design Patterns.
-* **Foundational Standards:** **RTL Support**, **Accessibility (WCAG 2.1 AA)**, **Semantic SEO**, Performance Optimization (Core Web Vitals).
 * **Deep Browser Tech:** Canvas API, Web/Service Workers, Proxy API, History API, Promises/Async patterns.
 * **Modern Stack:** **Next.js**, React, Vue.js, Angular, Node.js (v18+), AI Integration (LLMs), NestJS.
 * **Enterprise Platform:** Salesforce Commerce Cloud (SFCC), SFRA, Page Designer, Job Frameworks.
+* **Quality & UX:** **RTL Support**, **Accessibility (WCAG 2.1 AA)**, **Semantic SEO**, Core Web Vitals.
 * **Build & Tooling:** **Rspack** (Webpack migration), PNPM, Docker, CI/CD Pipelines, Git.
 
 ---
