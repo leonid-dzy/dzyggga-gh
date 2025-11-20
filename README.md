@@ -1,108 +1,71 @@
 # Leonid Dzyhanskyi
 
-**Front-End Architect | Principal Engineer | SFCC & Modern Stack Specialist**
+**Principal Front-End Architect | SFCC Modernization & Cloud-Native Specialist**
 
-- 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 [leonid@scootify.eco](mailto:leonid@scootify.eco)
-- 🇺🇸 **English:** Intermediate (B1/B2) | 🇺🇦 **Ukrainian:** Native | 🚫 **Russian:** Do not speak
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dzyggga/) | 🔗 [GitHub](https://github.com/leonid-dzy)
+* 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 leonid@scootify.eco
+* 🔗 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/leonid-dzy/) | 🔗 [GitHub](https://www.google.com/search?q=https://github.com/leonid-dzy)
+* **Languages:** 🇺🇸 English (Intermediate B1/B2) | 🇺🇦 Ukrainian (Native) | *Russian: Do not speak*
 
----
+-----
 
-## **Professional Profile**
+## Professional Summary
 
-**Hands-on Front-End Architect** delivering high-performance solutions **since 2012**. I specialize in bridging legacy enterprise systems (SFCC) with modern reactive architectures (Next.js, React, Serverless).
+Hands-on Front-End Architect delivering high-performance solutions since 2012. I operate across two domains: modernizing enterprise monoliths (specializing in SFCC) and architecting AI-first, serverless platforms (Next.js, Edge Computing). As an active Principal Engineer, I lead by coding the most complex system components. My philosophy treats Performance, Accessibility (AA), Security (Zero-Trust), and Semantic SEO as non-negotiable architectural constraints.
 
-* **Active Principal Engineer:** I actively write, review, and optimize code, handling the most complex technical challenges personally rather than just managing.
-* **Security-First Mindset:** I design architectures with inherent protection against web vulnerabilities (XSS, CSRF, Data Leaks) and secure API communication flows.
-* **User-Centric Engineering:** I treat **Performance, Accessibility (AA), and Semantic SEO** as non-negotiable architectural constraints that define the User Experience, not as afterthoughts.
-* **Innovation Leader:** Currently building AI-first serverless platforms while simultaneously modernizing global luxury retail architectures.
+I maintain an infinite learning loop to ensure solutions meet current best practices. Even if a technology is not required by my current project, I utilize my personal time with resources like Frontend Masters, architecting solutions with Gemini Ultra, and deep-diving into FE technical documentation. I excel at creating precise technical documentation and am adept at investigating and reverse-engineering existing codebases when documentation is incomplete.
 
----
+-----
 
-## **Continuous Evolution & AI Workflow**
+## Skills Experience
 
-*In the Front-End world, best practices change weekly and features deprecate in months. My motivation is to always provide the current best-performance solution.*
+**Since 2012 (Foundations):** HTML5, CSS3, JavaScript (Core/Foundations), jQuery, WordPress, Responsive Design, Cross-browser compatibility, Git.
 
-* **Continuous Learning:** I maintain an infinite learning loop (utilizing resources like **Frontend Masters**) before *and* after every task to ensure implementation aligns with the latest standards, not just "what worked last year."
-* **AI-First Development:** I have moved beyond standard GitHub Copilot, utilizing **Gemini Ultra** and **Next-Gen AI IDEs** (Claude/Sonnet integration) to architect smarter, bug-free systems faster.
-* **Deep Browser Engineering:** I don't just use frameworks; I master the browser. I possess deep expertise in **Canvas, Web Workers, Service Workers**, and low-level Browser APIs (**History, Navigator, Proxy, Promise**).
+**Since 2014 (Modern Frameworks & Cloud):** Angular, React, Vue.js, SCSS/SASS, Google Cloud Platform (GCP), Full-Stack Development, Email Compatibility.
 
----
+**Since 2015 (Enterprise E-Commerce & Tooling):** Salesforce Commerce Cloud (SFCC/SiteGenesis), Node.js (v18+ expertise), Webpack, BEM Methodology, ES6+/ESNext, Design Patterns, Jira, Confluence, Bitbucket.
 
-## **Technical Strategy & Framework Philosophy**
+**Since 2019 (Leadership & Advanced Web):** Technical Leadership, TypeScript, RTL (Right-to-Left) Support, PWA, Web/Service Workers, Advanced Browser APIs (History API, Promises/Async patterns, Proxy API).
 
-*My approach to selecting the right tool for the team:*
+**Since 2020:** Mentoring and Developer Education.
 
-* **Angular:** My preferred choice for mixed-seniority teams. I leverage its strict patterns and opinionated structure to prevent architectural drift and ensure junior developers produce safe, maintainable code.
-* **React:** I deploy React for senior, high-velocity teams who deeply understand the Virtual DOM, reactivity, and component lifecycles. I focus on establishing strong conventions to manage its inherent flexibility.
-* **Vue.js:** I utilize Vue as a balanced compromise—offering more structure than React but less boilerplate than Angular—ideal for rapid prototyping and pragmatic delivery.
+**Since 2021 (Architecture & Optimization):** Front-End Architecture (Role), SFRA, Rspack (Webpack Migration), PNPM (Monorepo Management), Azure, Docker, Light DOM Hydration, WCAG AA Accessibility, Core Web Vitals Optimization, Custom Fintech Integrations (Apple Pay/PayPal), Canvas API, XSS/CSRF Mitigation.
 
----
+**Since 2022 (Microservices & Backend):** NestJS, MongoDB, Microservices, Event-Driven Architecture.
 
-## **Key Architectural & Engineering Achievements**
+**Since 2023 (Next-Gen & AI):** Next.js, Serverless Architecture, Edge Computing, AI-First Development, LLM Integration (Gemini Ultra, Claude/Sonnet), Zero-Trust Security Models.
 
-### **1. Modernization of Luxury Retail Ecosystem (Dior / Alpenite)**
-*Role: Front-End Architect & Team Lead*
+-----
 
-* **Hybrid Architecture (SFRA + Modern JS):** Architected a custom framework utilizing **Light DOM** to hydrate Server-Side Rendered (SSR) SFRA code with modern JavaScript components.
-* **Performance Engineering:** Heavily implemented **Dynamic Imports** to split code execution, ensuring features load only when needed. Solved complex loading issues for video (Freecaster lib) with lazy-loading strategies and custom splash image composition tools.
-* **Infrastructure Overhaul:** Led the critical upgrade of the Node.js environment (v12 → v18+). Migrated build pipelines from Webpack to **Rspack** and implemented **PNPM** to manage complex cartridge dependencies, reducing build times by >60%.
-* **Fintech Integration:** Designed and built custom, secure payment integrations for **Apple Pay** and **PayPal**, bypassing standard cartridge limitations to meet specific market needs.
-* **Team Standards:** Enforced strict documentation and loading process controls. While leading the team, I remained the primary contributor for critical blockers and complex logic implementation.
+## Professional Experience
 
-### **2. Complex UI Engineering & Gamification (Golden Goose)**
-*Role: Senior Developer*
+**Front-End Architect & Team Lead** | Alpenite | France/UK/Italy | *09.2021 – Present*
+*Digital transformation and E-commerce modernization consultancy specializing in luxury retail (Clients: Dior, Golden Goose).*
 
-* **Physics-Based Gamification:** Engineered a complex **"Gift Finder" Roulette** module using Vue.js embedded within SFCC.
-    * Implemented custom logic for drag-and-drop spinning mechanics.
-    * Calculated rotation power based on user view/gesture velocity.
-    * Built a stepped randomizer algorithm to deterministically yet organically select products.
-* **Content Systems:** Created a scalable Page Designer ecosystem, allowing marketing teams to build custom layouts without developer intervention.
+**Founder & Principal Architect** | Scootify.eco | Ukraine | *2023 – Present*
+*Independent, AI-first serverless E-commerce platform built with Next.js and Edge computing.*
 
-### **3. Next-Gen AI E-Commerce Platform (Scootify.eco)**
-*Role: Founder & Principal Architect (Current)*
+**Founder & Full-Stack Developer** | Dzyggga | Ukraine | *03.2022 – 08.2023*
+*Networking platform utilizing Angular, NestJS (Microservices), MongoDB, and GCP.*
 
-* **Platform Migration:** Leading the strategic migration from Shopify to a custom **AI-first, Serverless** solution powered by **Next.js**.
-* **Full-Stack Implementation:** Building a scalable architecture that leverages Edge computing for speed and AI agents for customer interaction.
-* **Zero-Trust Security:** Designed security protocols from the ground up, focusing on secure, stateless API communication and data integrity.
+**SFCC Developer** | Bay Bridge Digital | France | *04.2021 – 03.2022*
+*Technology solutions provider focused on transformative digital experiences and SFCC implementations.*
 
-### **4. R&D and Framework Evolution (Dzyggga / Stryzhavka Online)**
-*Role: Creator & Full-Stack Developer*
+**Front-End Developer** | Inco Alliance | Ukraine | *03.2021 – 12.2021*
+*International network focused on sustainable development (Angular/Azure).*
 
-* **Multi-Framework Evolution:** Demonstrated adaptability by evolving the *Stryzhavka* project through multiple iterations: initially built on **Vue.js**, migrated to **React**, and finalized on **Angular** before handing over to government administration.
-* **Cloud & Data:** Built the *Dzyggga* platform using React and **GCP**, focusing on high-performance data handling before sunsetting the project to focus on modern serverless stacks.
+**Mentor** | Beetroot Academy | Ukraine | *04.2020 – 10.2020*
+*Guided students through core programming challenges and web technologies.*
 
----
+**Front-End Team Lead** | The Raven | Ukraine | *05.2019 – 08.2021*
+*Software development agency focusing on complex, multilingual Angular applications.*
 
-## **Technical Arsenal**
+**Senior SFCC Developer** | Astound Commerce | Ukraine | *10.2015 – 02.2021*
+*Leading global E-commerce agency providing custom solutions for international markets.*
 
-* **Core & Architecture:** JavaScript (ESNext), TypeScript, Light DOM Hydration, Microservices, Event-Driven Architecture, Design Patterns.
-* **Deep Browser Tech:** Canvas API, Web/Service Workers, Proxy API, History API, Promises/Async patterns.
-* **Modern Stack:** **Next.js**, React, Vue.js, Angular, Node.js (v18+), AI Integration (LLMs), NestJS.
-* **Enterprise Platform:** Salesforce Commerce Cloud (SFCC), SFRA, Page Designer, Job Frameworks.
-* **Quality & UX:** **RTL Support**, **Accessibility (WCAG 2.1 AA)**, **Semantic SEO**, Core Web Vitals.
-* **Build & Tooling:** **Rspack** (Webpack migration), PNPM, Docker, CI/CD Pipelines, Git.
+**Creator / Full Stack** | Stryzhavka Online | Ukraine | *02.2014 – 08.2019*
+*Community social resource platform evolved through multiple tech stacks (Vue, React, Angular).*
 
----
+**Web Developer** | Action Pay | Ukraine | *08.2014 – 10.2015*
+*Payment services provider.*
 
-## **Work History**
-
-* **Front-End Architect / Lead** | Alpenite (France/UK/Italy) | *09.2021 – Present*
-* **Founder & Architect** | Scootify.eco | *2023 – Present*
-* **Founder & Developer** | Dzyggga (Ukraine) | *03.2022 – 08.2023*
-* **SFCC Developer** | Bay Bridge Digital (France) | *04.2021 – 03.2022*
-* **Front-End Developer** | Inco Alliance (Ukraine) | *03.2021 – 12.2021*
-* **Mentor** | Beetroot Academy (Ukraine) | *04.2020 – 10.2020*
-* **Front-End Team Lead** | The Raven (Ukraine) | *05.2019 – 08.2021*
-* **Senior SFCC Developer** | Astound Commerce (Ukraine) | *10.2015 – 02.2021*
-* **Web Developer** | Action Pay (Ukraine) | *08.2014 – 10.2015*
-* **Creator / Full Stack** | Stryzhavka Online | *02.2014 – 08.2019*
-* **Web Developer** | Freelance | *06.2012 – 09.2014*
-
----
-
-## **Languages**
-
-* **English:** Intermediate (B1/B2)
-* **Ukrainian:** Native
-* **Russian:** **Do not speak**
+**Web Developer** | Freelance | Ukraine | *06.2012 – 09.2014*
