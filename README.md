@@ -3,7 +3,9 @@
 **Front-End Architect | Principal Engineer | SFCC & Modern Stack Specialist**
 
 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 [leonid@scootify.eco](mailto:leonid@scootify.eco)
+
 🇺🇸 **English:** Intermediate (B1/B2) | 🇺🇦 **Ukrainian:** Native | 🚫 **Russian:** Do not speak
+
 🔗 [LinkedIn](https://www.linkedin.com/in/dzyggga/) | 🔗 [GitHub](https://github.com/leonid-dzy)
 
 ---
