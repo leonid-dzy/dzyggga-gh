@@ -1,38 +1,38 @@
 # Leonid Dzyhanskyi
 
-**Principal Front-End Architect | SFCC Modernization & Cloud-Native Specialist**
+**Principal Front-End Architect | SFCC & Modern Web Architecture**
 
-* 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 leonid@scootify.eco
-* 🔗 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/leonid-dzy/) | 🔗 [GitHub](https://www.google.com/search?q=https://github.com/leonid-dzy)
-* **Languages:** 🇺🇸 English (Intermediate B1/B2) | 🇺🇦 Ukrainian (Native) | *Russian: Do not speak*
+* 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 leonid@scootify.eco | **Born:** 1986
+* 🔗 [LinkedIn](https://www.linkedin.com/in/dzyggga/) | 🔗 [GitHub](https://github.com/leonid-dzy)
+* 🇺🇸 English (Intermediate B1/B2) | 🇺🇦 Ukrainian (Native) | *Russian: Do not speak*
 
 -----
 
 ## Professional Summary
 
-Hands-on Front-End Architect delivering high-performance solutions since 2012. I operate across two domains: modernizing enterprise monoliths (specializing in SFCC) and architecting AI-first, serverless platforms (Next.js, Edge Computing). As an active Principal Engineer, I lead by coding the most complex system components. My philosophy treats Performance, Accessibility (AA), Security (Zero-Trust), and Semantic SEO as non-negotiable architectural constraints.
+Hands-on Front-End Architect delivering high-performance solutions since 2012. I operate across two domains: modernizing enterprise monoliths (Salesforce Commerce Cloud) and architecting AI-first, serverless platforms. As an active Principal Engineer, I lead by coding the most complex system components myself. My philosophy treats Performance, Accessibility (AA), Security (Zero-Trust), and Semantic SEO as non-negotiable architectural constraints.
 
-I maintain an infinite learning loop to ensure solutions meet current best practices. Even if a technology is not required by my current project, I utilize my personal time with resources like Frontend Masters, architecting solutions with Gemini Ultra, and deep-diving into FE technical documentation. I excel at creating precise technical documentation and am adept at investigating and reverse-engineering existing codebases when documentation is incomplete.
+**AI Philosophy & Workflow:** I leverage Enterprise AI (Gemini Ultra) as a strategic force multiplier—using it to brainstorm, generate documentation, manipulate assets, and accelerate routine coding. This approach allows me to delegate simple tasks to agents and focus my energy on complex architectural challenges. I treat AI like a high-performance vehicle: it speeds up the journey, but I remain the driver—ensuring strict data privacy (Enterprise-only), rigorously reviewing every line of generated code, and using the process to continuously expand my own vocabulary and technical knowledge.
 
 -----
 
-## Skills Experience
+## Skills & Experience Timeline
 
-**Since 2012 (Foundations):** HTML5, CSS3, JavaScript (Core/Foundations), jQuery, WordPress, Responsive Design, Cross-browser compatibility, Git.
+**Since 2012 (Foundations):** HTML5, CSS3, JavaScript (Core), jQuery, WordPress, Responsive Design, Cross-browser compatibility, Git.
 
-**Since 2014 (Modern Frameworks & Cloud):** Angular, React, Vue.js, SCSS/SASS, Google Cloud Platform (GCP), Full-Stack Development, Email Compatibility.
+**Since 2014 (Modern Frameworks & Cloud):** Angular, React, Vue.js, SCSS/SASS, TypeScript, Google Cloud Platform (GCP), Full-Stack Development, Email Compatibility.
 
-**Since 2015 (Enterprise E-Commerce & Tooling):** Salesforce Commerce Cloud (SFCC/SiteGenesis), Node.js (v18+ expertise), Webpack, BEM Methodology, ES6+/ESNext, Design Patterns, Jira, Confluence, Bitbucket.
+**Since 2015 (Enterprise E-Commerce):** Salesforce Commerce Cloud (SFCC/SiteGenesis/SFRA), Node.js (v18+ expertise), Webpack, BEM Methodology, ES6+, Design Patterns, Jira, Confluence.
 
-**Since 2019 (Leadership & Advanced Web):** Technical Leadership, TypeScript, RTL (Right-to-Left) Support, PWA, Web/Service Workers, Advanced Browser APIs (History API, Promises/Async patterns, Proxy API).
+**Since 2019 (Leadership & Advanced Web):** Technical Leadership, RTL (Right-to-Left) Support, PWA, Web/Service Workers, Advanced Browser APIs (History, Promises/Async, Proxy).
 
 **Since 2020:** Mentoring and Developer Education.
 
-**Since 2021 (Architecture & Optimization):** Front-End Architecture (Role), SFRA, Rspack (Webpack Migration), PNPM (Monorepo Management), Azure, Docker, Light DOM Hydration, WCAG AA Accessibility, Core Web Vitals Optimization, Custom Fintech Integrations (Apple Pay/PayPal), Canvas API, XSS/CSRF Mitigation.
+**Since 2021 (Architecture & Optimization):** Front-End Architecture (Role), Rspack (Webpack Migration), PNPM (Monorepo), Docker, Light DOM Hydration, WCAG AA Accessibility, Core Web Vitals, Custom Fintech Integrations (Apple Pay/PayPal), Canvas API, Security (XSS/CSRF).
 
 **Since 2022 (Microservices & Backend):** NestJS, MongoDB, Microservices, Event-Driven Architecture.
 
-**Since 2023 (Next-Gen & AI):** Next.js, Serverless Architecture, Edge Computing, AI-First Development, LLM Integration (Gemini Ultra, Claude/Sonnet), Zero-Trust Security Models.
+**Since 2023 (Next-Gen & AI):** Next.js, Serverless Architecture, Edge Computing, AI-First Development, LLM Integration (Gemini Ultra, Claude/Sonnet), Zero-Trust Security.
 
 -----
 
