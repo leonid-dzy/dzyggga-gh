@@ -18,25 +18,21 @@ Hands-on Front-End Architect delivering high-performance solutions since 2012. I
 
 ## Skills & Experience Timeline
 
-**Since 2012 (Foundations & Design):** HTML5, CSS3, JavaScript (Core), jQuery, WordPress, Cross-browser compatibility, Git.
-* **Design & OS:** Tool-agnostic Design Translation (Adobe Creative Suite / Figma / Sketch), Cross-Platform Development (Unix/Linux/Windows).
+**Since 2012:** HTML5, CSS3, JavaScript (Core), jQuery, WordPress, Cross-browser compatibility, Git, Tool-agnostic Design Translation (Adobe Creative Suite / Figma / Sketch), Cross-Platform Development (Unix/Linux/Windows), IDEs & Workflows (IntelliJ IDEA, Eclipse).
 
-**Since 2014 (Modern Frameworks & Management):** Angular, React, Vue.js, SCSS/SASS, TypeScript, Google Cloud Platform (GCP), Full-Stack Development.
-* **Management:** Agile Management Suites (Atlassian Jira/Confluence, Google Workspace, MS Office).
+**Since 2014:** Angular, React, Vue.js, SCSS/SASS, NestJS, MongoDB, TypeScript, Google Cloud Platform (GCP), Full-Stack Development, Email Compatibility, Agile Management Suites (Atlassian Jira/Confluence, Google Workspace, MS Office).
 
-**Since 2015 (Enterprise E-Commerce & Visuals):** Salesforce Commerce Cloud (SFCC/SiteGenesis/SFRA), Node.js (v18+ expertise), Webpack, BEM Methodology, ES6+, Design Patterns.
-* **Visual Engineering:** Advanced UI Animation, SVG Architecture, Icon Systems, Asset Optimization Strategies.
+**Since 2015:** Salesforce Commerce Cloud (SFCC/SiteGenesis/SFRA), Node.js (v18+ expertise), Webpack, BEM Methodology, ES6+, Design Patterns, Advanced UI Animation, SVG Architecture, Icon Systems, Asset Optimization Strategies, IDEs & Workflows (VS Code).
 
-**Since 2019 (Leadership & Advanced Web):** Technical Leadership, RTL (Right-to-Left) Support, PWA, Web/Service Workers, Advanced Browser APIs (History, Promises/Async, Proxy).
+**Since 2019:** Technical Leadership, RTL (Right-to-Left) Support, PWA, Web/Service Workers, Advanced Browser APIs (History, Promises/Async, Proxy).
 
-**Since 2020:** Mentoring and Developer Education.
+**Since 2020:** Next.js, Nuxt.js, Mentoring and Developer Education.
 
-**Since 2021 (Architecture & Optimization):** Front-End Architecture (Role), Rspack (Webpack Migration), PNPM (Monorepo), Docker, Light DOM Hydration, WCAG AA Accessibility, Core Web Vitals, Custom Fintech Integrations (Apple Pay/PayPal), Canvas API, Security (XSS/CSRF).
+**Since 2021:** Front-End Architecture (Role), Rspack (Webpack Migration), PNPM (Monorepo), Docker, Light DOM Hydration, WCAG AA Accessibility, Core Web Vitals, Custom Fintech Integrations (Apple Pay/PayPal), Canvas API, Security (XSS/CSRF).
 
-**Since 2022 (Microservices & Backend):** NestJS, MongoDB, Microservices, Event-Driven Architecture.
+**Since 2022:** Microservices, Event-Driven Architecture.
 
-**Since 2023 (Next-Gen & AI):** Next.js, Serverless Architecture, Edge Computing, AI-First Development, LLM Integration (Gemini Ultra, Claude/Sonnet), Zero-Trust Security.
-* **Dev Environment:** High-Velocity Workflows (VS Code / AI-Enhanced IDEs / Vim Motions).
+**Since 2023:** Next.js, Serverless Architecture, Edge Computing, AI-First Development, LLM Integration (Gemini Ultra, Claude/Sonnet), Zero-Trust Security, IDEs & Workflows (AI-Enhanced IDEs / Vim Motions).
 
 -----
 
