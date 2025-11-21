@@ -2,7 +2,7 @@
 
 **Principal Front-End Architect | SFCC & Modern Web Architecture**
 
-* 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 leonid@scootify.eco | **Born:** 1986
+* 📍 Ukraine | 📞 +38 (077) 27 - 70 - 006 | 📧 dzyhanskyil@gmail.com | **Born:** 1986
 * 🔗 [LinkedIn](https://www.linkedin.com/in/dzyggga/) | 🔗 [GitHub](https://github.com/leonid-dzy)
 * 🇺🇸 English (Intermediate B1/B2) | 🇺🇦 Ukrainian (Native) | *Russian: Do not speak*
 
